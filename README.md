@@ -1,4 +1,4 @@
-# Photography Website
+# Photography Web
 
 ## Project setup
 ```
